@@ -1,3 +1,3 @@
 # fruit-service
 
-apples
+oranges
